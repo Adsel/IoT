@@ -1,0 +1,12 @@
+{
+  "name": "Quiz",
+  "displayName": "Quiz",
+  "expo": {
+    "name": "Quiz",
+    "slug": "Quiz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
